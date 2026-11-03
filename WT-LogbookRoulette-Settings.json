@@ -1,0 +1,38 @@
+{
+    "indention_bool": true,
+    "onlyuse_members_bool": false,
+    "discord_bool": true,
+    "members": [
+        {
+            "name": "c",
+            "enabled": true
+        },
+        {
+            "name": "d",
+            "enabled": true
+        },
+        {
+            "name": "r",
+            "enabled": true
+        },
+        {
+            "name": "f",
+            "enabled": true
+        },
+        {
+            "name": "g",
+            "enabled": true
+        }
+    ],
+    "enabled_ranks": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+    ],
+    "enabled_vehicle_types": [
+        "陸上車両",
+        "ヘリコプター"
+    ]
+}
